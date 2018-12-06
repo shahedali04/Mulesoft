@@ -1,0 +1,77 @@
+!SESSION 2018-12-06 17:01:56.654 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Admin\Documents\FT-devnew\Mulesoft
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:01.902
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\Admin\.m2\repository
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:01.908
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\Admin\.m2\repository
+
+!ENTRY org.eclipse.ui 4 4 2018-12-06 17:02:03.176
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ContentOutline.
+
+!ENTRY org.eclipse.ui 4 4 2018-12-06 17:02:03.182
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ContentOutline.
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:10.722
+!MESSAGE Generating unique Studio Id = STUDIO-1ec02c78-d172-4d1a-bc76-65cf4273f2b4-15440959307212154
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:10.722
+!MESSAGE Generating unique Studio Id = STUDIO-1ec02c78-d172-4d1a-bc76-65cf4273f2b4-15440959307212154
+
+!ENTRY org.eclipse.jface 2 0 2018-12-06 17:02:51.131
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-12-06 17:02:51.131
+!MESSAGE A conflict occurred for CTRL+F:
+Binding(CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.findReplace,Find and Replace,
+		Find and replace text,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f77cd24,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F,
+	ParameterizedCommand(Command(org.mule.tooling.ui.dfl.contribution.commands.searchCommand,Find/Replace,
+		Find/Replace,
+		Category(org.mule.tooling.ui.commandcategory,org.mule.tooling.ui.commandcategory,Category for menu commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5408854f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.mule.tooling.contexts.mulePropertiesEditor,,,system)
+Binding(CTRL+F,
+	ParameterizedCommand(Command(org.mule.tooling.commands.focusSearchCommand,Focus Search Command,
+		Focus Search in Palette,
+		Category(org.mule.tooling.ui.commandcategory,org.mule.tooling.ui.commandcategory,Category for menu commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7ca9c253,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.mule.tooling.contexts.mulePropertiesEditor,,,system)
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:57.958
+!MESSAGE While generating classpath found that C:\Users\Admin\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:57.959
+!MESSAGE While generating classpath found that C:\Users\Admin\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:57.960
+!MESSAGE While generating classpath found that C:\Users\Admin\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:57.960
+!MESSAGE While generating classpath found that C:\Users\Admin\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:57.986
+!MESSAGE While generating classpath found that C:\Users\Admin\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 1 0 2018-12-06 17:02:57.987
+!MESSAGE While generating classpath found that C:\Users\Admin\AnypointStudio\plugins\org.mule.tooling.server.3.9.1.ee_6.4.2.201804231909\mule\lib\endorsed\ is not a directory.
+
+!ENTRY org.mule.tooling.core 2 0 2018-12-06 17:02:58.898
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.mule.tooling.core 2 0 2018-12-06 17:02:58.899
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
